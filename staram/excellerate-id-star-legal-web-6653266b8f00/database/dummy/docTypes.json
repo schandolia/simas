@@ -1,0 +1,62 @@
+[
+    {
+        "type":"NDA",
+        "description":"Duis at velit eu est congue elementum. In hac habitasse platea dictumst.",
+        "approval_path":["1","2","5","6","7"],
+        "sla_min":"1", "sla_max":"1"
+    },
+    {
+        "type":"Term Sheet",
+        "description":"Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. ",
+        "approval_path":["1","3","2","5","6","7"],
+        "sla_min":"1", "sla_max":"2"
+    },
+    {
+        "type":"MoU",
+        "description":"Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+        "approval_path":["1","2","5","6","7"],
+        "sla_min":"1", "sla_max":"2"
+    },
+    {
+        "type":"Contract F1",
+        "description":"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.",
+        "approval_path":["1","2","5","6","7"],
+        "sla_min":"1", "sla_max":"1"
+    },
+    {
+        "type":"Contract F2",
+        "description":"Nulla facilisi. Cras non velit nec nisi vulputate nonummy.",
+        "approval_path":["1","4","3","2","5","6","7"],
+        "sla_min":"1", "sla_max":"1"
+    },
+    {
+        "type":"License or Permit",
+        "description":"Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.",
+        "approval_path":["1","4","3","2","5","6","7"],
+        "sla_min":"1", "sla_max":"1"
+    },
+    {
+        "type":"Power of Attorney",
+        "description":"Nulla facilisi. Cras non velit nec nisi vulputate nonummy. ",
+        "approval_path":["1","4","2","5","6","7"],
+        "sla_min":"3", "sla_max":"7"
+    },
+    {
+        "type":"Establishment New Company",
+        "description":"Nulla facilisi. Cras non velit nec nisi vulputate nonummy. ",
+        "approval_path":["1","4","3","2","5","6","7"],
+        "sla_min":"3", "sla_max":"7"
+    },
+    {
+        "type":"Article of Association or Deed",
+        "description":"Nulla facilisi. Cras non velit nec nisi vulputate nonummy. ",
+        "approval_path":["1","4","3","2","5","6","7"],
+        "sla_min":"3", "sla_max":"7"
+    },
+    {
+        "type":"Open/Closing/Change Speciment of Bank Account and RDN",
+        "description":"Nulla facilisi. Cras non velit nec nisi vulputate nonummy. ",
+        "approval_path":["1","4","3","2","5","6","7"],
+        "sla_min":"3", "sla_max":"7"
+    }
+]

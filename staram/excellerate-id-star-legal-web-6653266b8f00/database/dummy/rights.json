@@ -1,0 +1,12 @@
+[
+    {"name":"Submit", "description":"This action can be done by user"},
+    {"name":"BU Head Approved", "description":"This action can be done by BU Head","column":"bu_approved"},
+    {"name":"CFO Approved", "description":"This action can be done by CFO","column":"cfo_approved"},
+    {"name":"CEO Approved", "description":"This action can be done by CEO","column":"ceo_approved"},
+    {"name":"Assign", "description":"This action can be done by Legal Head","column":"legal_approved"},
+    {"name":"Process", "description":"This action can be done by PIC Legal"},
+    {"name":"Final Approval", "description":"This action can be done by Legal Head"},
+    {"name":"Hold", "description":"This action can be done by all approver kind users"},
+    {"name":"Activate", "description":"This action can be done by all approver kind users"},
+    {"name":"Reject", "description":"This action can be done by all approver kind users"}
+]

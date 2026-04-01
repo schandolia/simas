@@ -52,3 +52,18 @@ DerivedData
 # http://guides.cocoapods.org/using/using-cocoapods.html#should-i-ignore-the-pods-directory-in-source-control?
 #
 Pods/
+
+# Dependencies
+node_modules/
+
+# Build and temporary directories
+/build/
+/dist/
+/tmp/
+.temp/
+
+# System and OS files
+.DS_Store # macOS
+Thumbs.db # Windows
+npm-shrinkwrap.json
+npm-pack.tgz

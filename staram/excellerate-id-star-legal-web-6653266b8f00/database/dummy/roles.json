@@ -1,0 +1,9 @@
+[
+    {"name":"User", "kind":"USER"},
+    {"name":"Legal PIC","kind":"LEGAL"},
+    {"name":"BU Head","kind":"APPROVER"},
+    {"name":"Legal Head","kind":"APPROVER"},
+    {"name":"CFO","kind":"APPROVER"},
+    {"name":"CEO","kind":"APPROVER"},
+    {"name":"Admin","kind":"ADMIN"}
+]
